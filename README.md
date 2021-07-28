@@ -1,4 +1,4 @@
-# Tutorial ANGULAR - v.11.2 - [att.20/05/2021 - windows 10]
+# Tutorial ANGULAR - v.12 - [att.28/07/2021 - windows 10]
 ### Material básico para incrementar seus estudos sobre o framework Angular (v.12).
 
 Sites úteis:<br>
