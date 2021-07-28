@@ -15,4 +15,4 @@
 4 - Abra o seguinte link no navegador: http://localhost:4200/<br>
 5 - Pronto! Você criou a sua primeira aplicação web, utilizando Framework Angular (v.12).<br>
 > para iniciar e aprofundar seus estudos em angular, acesse os sites dos Docs e do Material: https://angular.io/ e https://material.angular.io/
-> para subir a aplicação para produção(transformar no pacote js), utilize o comando: **ng build**
+> <br>para subir a aplicação para produção(transformar no pacote js), utilize o comando: **ng build**
